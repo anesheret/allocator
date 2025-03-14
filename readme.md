@@ -42,3 +42,5 @@ chmod u+x ./format-source-text.sh
 ```shell
 ./format-source-text.sh
 ```
+# Test
+This is a test.
