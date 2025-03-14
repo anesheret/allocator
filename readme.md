@@ -45,3 +45,4 @@ chmod u+x ./format-source-text.sh
 # Test
 This is a test.
 This is second line.
+This is third line.
